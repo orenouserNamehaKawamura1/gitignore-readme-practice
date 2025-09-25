@@ -51,7 +51,7 @@ Python 版と Java 版があります。
 
 - Python や Java の基本的な入力・出力
 - 条件分岐による勝敗判定
-- 実行ごとのログ出力(Python 版は debug.log に出力されます)
+- 実行ごとのログ出力(Python 版は `debug.log` に出力されます)
 - Git 管理演習(不要ファイルの除外など)
 
 ## 作者
