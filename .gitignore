@@ -1,0 +1,6 @@
+__pycache__/
+tmp/
+debug.log
+secret.txt
+*.class
+*.pyc
